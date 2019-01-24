@@ -50,3 +50,5 @@ selectors {
 #logo h2{
   font-family: 'Elsie Swash Caps', cursive;
 }
+
+/* Pseudo Class Selector: select element based on event state or relationshiipp to other elements */
